@@ -12,6 +12,6 @@ In here you'll find a heck of a lot of random stuff. I have struggled with depre
 
 Anyway, it's late here and I should probably be off. There's a load more I wanted to include in this post so that you can get to know me better but it'll have to wait. Remember that thing I mentioned about cohesion? Yeah well I couldn't think of a way to segue into the next bit so I'll get that happening tomorrow sometime. I'm off to the Gold Coast in 7 days so I have until then to fill in my backstory.
 
-![Doctor I'm afraid of backstories]({{ "/assets/first-post/backstories.gif" | absolute_url }})
+![Doctor I'm afraid of backstories]({{ "/assets/posts/first-post/backstories.gif" | absolute_url }})
 
 Connor
